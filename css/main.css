@@ -1,8 +1,8 @@
-/* ---------------------------Body and Wrapper-------------------------- */
+/* ---------------------------Body and Headers-------------------------- */
 
 body {
 	color: black;
-	font: 100%/1.5 "Helvetica Neue", Arial, Verdana, sans-serif;
+	font: 16px "Helvetica Neue", Arial, Verdana, sans-serif;
 	max-width: 790px;
 	margin: 20px auto;
 	background-color: #333;
