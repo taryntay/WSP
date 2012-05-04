@@ -1,0 +1,31 @@
+/* ---------------------------Body and Wrapper-------------------------- */
+
+body {
+	color: black;
+	font: 100%/1.5 "Helvetica Neue", Arial, Verdana, sans-serif;
+	max-width: 790px;
+	margin: 20px auto;
+	background-color: #333;
+	border: 2px solid lime;
+}
+
+#wrapper {
+
+	background: #999;
+	padding: 10px;
+
+}
+
+section {
+	background: #999;
+}
+
+
+h1 {
+	font-family: georgia;
+	background: #999;
+}
+
+h2 {
+	font-family: georgia;
+}
