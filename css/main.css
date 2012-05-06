@@ -3,7 +3,7 @@
 body {
 	color: black;
 	font: 16px "Helvetica Neue", Arial, Verdana, sans-serif;
-	max-width: 790px;
+	max-width: 1000px;
 	margin: 20px auto;
 	background-color: #333;
 	border: 2px solid lime;
@@ -28,4 +28,9 @@ h1 {
 
 h2 {
 	font-family: georgia;
+}
+
+img {
+	max-width: 950px;
+	margin: auto;
 }
